@@ -1,0 +1,301 @@
+<resources>
+    <string name="app_name">RecyclerViewWithClickItems</string>
+    <string name="recipe_clam_chowder">
+        Ingredients:\n\n4 slices thick-cut bacon, cut into lardons\n1 large onion, diced\n2 tbsp plain flour\n4 medium waxy potatoes, diced
+        \n3 cups fish or chicken stock\n1.5 cups whipping cream
+        \n24 clams, shucked, with their liquor, cut into pieces if large
+        \n1 tbsp fresh parsley or chives, minced
+
+\n\nDetails:
+
+    \n\nCuisine: American
+    \nRecipe Type: Soup
+    \nDifficulty: Easy
+    \nPreparation Time: 10 mins
+    \nCooking Time: 30 mins
+    \nServes: 4
+
+\n\nStep-By-Step:
+        \n\n1) In a heavy-bottomed pot, cook the bacon over medium high heat, stirring frequently, until browned and crisp, about 5 minutes. Drain the bacon on paper towels.
+        \n\n2) Add the onion to the bacon drippings and cook, stirring, until the onion has softened, about 5 minutes.
+    \n\n3) Stir in the flour. Add the potatoes and stock.
+    \n\n4) Cook, stirring occasionally, until the potatoes are tender, about 15 minutes.
+    \n\n5) Add the cream and bring to a simmer.
+    \n\n6) Add the clams and reserved bacon and simmer for another few minutes. Season to taste with salt and pepper.
+    \n\n7) Serve garnished with parsley or chives.
+
+</string>
+    <string name="recipe_shakshuka">Ingredients:
+    \n\n0.5 tsp salt
+    \n0.5 tsp black pepper
+    \n0.5 tsp cumin (optional)
+    \n6 large eggs
+    \n3.5 oz feta cheese, roughly chopped
+    \n8 large tomatoes on the vine, chopped
+    \n0.5 cup tomato juice
+    \n2 large aubergines, sliced into rounds
+    \n0.5 red onion
+    \n1 garlic clove, finely chopped
+    \n3 tbsp olive oil, for frying
+
+\n\nDetails:
+
+    \n\nCuisine: Middle Eastern
+    \nRecipe Type: Eggs
+    \nDifficulty: Easy
+    \nPreparation Time: 20 mins
+    \nCooking Time: 5 mins
+    \nServes: 6
+
+\n\nStep-By-Step:
+
+    \n\n1) Preheat the oven to 220°C/425°F/gas mark 7.
+    \n\n2) Heat 1 tablespoon of oil in a large frying pan. Season the aubergine slices and fry them in batches for 3–4 minutes on each side, until golden and tender, adding more oil as necessary. Transfer the slices to a plate as they are cooked.
+    \n\n3) Heat 2 tablespoons of oil in a medium frying pan and sauté the onion gently over a low to medium heat for about 8 minutes, stirring every now and then, until softened. Stir in the garlic and cook for a further minute.
+    \n\n4) Tip the tomatoes into the pan along with any juice and stir into the onion. Cook for 8 minutes until the tomatoes have broken down and softened – they should be a pulp.
+    \n\n5) Pour in the tomato juice and cook, again over a low heat, for 5 minutes. The sauce will be quite thick by this stage.
+    \n\n6) Season with salt, black pepper and the cumin, if using.
+    \n\n7) Spread a layer of aubergine slices over a large, ovenproof dish, then spoon over half the tomato sauce. Repeat to make two layers.
+    \n\n8) Make a hole in the sauce with the back of a large spoon and crack an egg into it. Do the same all round the dish until you’ve positioned all the eggs. Scatter over the feta.
+    \n\n9) Bake in the oven for 5 minutes. Pick the leaves off the parsley and mint sprigs, and chop roughly. When the shakshuka is ready, scatter over the herbs and serve with the warm pitta bread.
+</string>
+    <string name="recipe_peking_duck">Ingredients:
+\n\nFor the duck:
+
+    \n2 duck legs, around 450g/6oz (we like field and flower)
+    \n1 tsp Chinese five spice
+    \n1 tsp sea salt
+    \n1 tsp garlic granules
+
+\n\nTo serve:
+
+    \n2 tbsp hoisin sauce
+    \n1 x packet of Chinese pancakes (can be found in the fresh aisle of some supermarkets or specialist Asian grocery stores)
+    \n1 cucumber, cut into matchsticks
+    \n2 spring onions, finely sliced lengthways
+
+\n\nDetails:
+
+    \n\nCuisine: Chinese
+    \nRecipe Type: Duck
+    \nDifficulty: Easy
+    \nPreparation Time: 10 mins
+    \nCooking Time: 60 mins
+    \nServes: 2
+
+\n\nStep-By-Step:
+
+    \n\n1) Preheat your oven to 180°C/356°F/gas mark 4 and remove the duck legs from the fridge about 20 mins before you want to cook them.
+    \n\n2) Prick the skin of the duck legs all over with a fork or skewer.
+    \n\n3) In a bowl, mix together your five spice, garlic and salt, then rub over the duck legs.
+    \n\n4) Place the duck legs in an ovenproof dish and cook for about 60 mins. Leave them in a little longer if they haven’t crisped up enough.
+    \n\n5) While the duck is cooking, prepare your cucumber and spring onions.
+    \n\n6) Once the duck is cooked, leave it to rest for about 10 mins then shred the meat using two forks or your fingers.
+    \n\n7) Serve the shredded duck with the hoisin sauce, pancakes, cucumber and spring onions on the side.
+</string>
+    <string name="recipe_boeuf_bourguignon">Ingredients:
+
+    \n\n800 g Beef brisket, cut into large cubes
+    \n1 l Full-bodied red wine
+    \n2 Thyme sprigs
+    \n4 Garlic cloves, crushed with the flat edge of a knife or your hand
+    \n3 tbsp Cognac
+    \n100 ml Sunflower oil
+    \n2 tbsp Plain flour
+    \n600 ml Veal stock or chicken stock
+    \n2 Carrots, peeled, halved lengthways and cut into chunks
+    \n12 Silverskin onions
+    \n100 g Small button mushrooms
+    \n100 g Pancetta, diced
+    \n1 handful Flat-leaf parsley, roughly chopped
+    \n1 pinch Salt
+    \n1 pinch Freshly ground black pepper
+    \n1 Bouquet garni (made with 1 parsley sprig, 1 thyme sprig and 1 small bay leaf)
+
+\n\nDetails:
+
+    \n\nCuisine: French
+    \nRecipe Type: Main
+    \nDifficulty: Medium
+    \nPreparation Time: 200 mins
+    \nCooking Time: 135 mins
+    \nServes: 4
+
+\n\nStep-By-Step:
+
+    \n\n1) In a deep dish, mix together the beef, wine, thyme, garlic and Cognac. Cover with cling film and leave to marinate in the fridge for at least 3 hours.
+    \n\n2) Drain the meat into a bowl, using a colander, and reserve the marinade.
+    \n\n3) Heat 4 tablespoons of the oil in a large saucepan or cast iron pot over a medium hear. Add the meat and cook for 20 minutes until brown, season with salt and pepper, then sprinkle with the flour and cook, stirring, for a further 2-3 minutes.
+    \n\n4) Add the stock and reserved marinade and bring to the boil. Skim the foam off the surface and add the bouquet garni, then reduce the heat to low and simmer, partially covered, for 1 hour 45 minutes, stirring occasionally, until the meat is tender. By that time you should have a rich, silky sauce.
+    \n\n5) About 50 minutes before the end of the cooking time, heat another medium saucepan with 1 tablespoon of the oil over a medium-low heat. Add the carrots and onions and cook for 10 minutes or until soft and pale gold in colour, then add to the meat saucepan.
+    \n\n6) When the beef is almost ready, heat the remaining oil in a frying pan over a medium heat. Add the mushrooms and pancetta and fry 8-10 minutes, stirring occasionally, until golden brown, then add them to the beef. Check the seasoning adjusting the salt and pepper, if necessary, throw in the parsley and stir gently without breaking the delicate pieces of beef.
+    \n\n7) Serve with hot creamed mash potatoes for a perfect winter warmer.
+
+</string>
+    <string name="recipe_biryani">Ingredients:
+
+    \n\n400 g basmati rice
+    \n2 tbsp butter
+    \n1 tbsp light-flavoured oil
+    \n1 onion, thinly sliced
+    \n1 green finger chilli, chopped
+    \n6 cardamom pods, bashed
+    \n5 cm (2in) piece of cinnamon stick, broken in half
+    \n5 cm (2in) piece of fresh root ginger, grated
+    \n4 garlic cloves, grated
+    \n2 tsp garam masala
+    \n3 tsp ground cumin
+    \n0.5 tsp turmeric
+    \n1 tsp chilli powder
+    \n6 skinless, boneless chicken thighs, cut into bite-size pieces
+    \n50 g crispy fried onions
+    \n750 –850 ml (25–28 floz/ 3–3½ cups) boiling water
+    \n1 handful coriander (cilantro), chopped
+    \n1 handful toasted flaked (slivered) almonds
+    \n1 pinch each of fine sea salt and freshly ground black pepper
+    \n4 dollops of natural yogurt, to serve (optional)
+
+\n\nDetails:
+
+    \n\nCuisine: Indian
+    \nRecipe Type: Rice
+    \nDifficulty: Easy
+    \nPreparation Time: 10 mins
+    \nCooking Time: 35 mins
+    \nServes: 4
+
+\n\nStep-By-Step:
+
+    \n\n1) Soak the rice in a large bowl of warm water for 15 minutes, then drain and rinse under cold running water until the water runs clear. Put the kettle on to boil.
+    \n\n2) Meanwhile, heat the butter and oil in a deep frying pan (skillet) or a flameproof casserole dish (Dutch oven) set over a medium heat. Fry the onion, chilli, cardamom pods and cinnamon stick for 5 minutes, stirring frequently.
+    \n\n3) Meanwhile, in a large bowl, mix the grated ginger and garlic with the dried spices, ½ teaspoon salt and a generous grinding of black pepper. Add the chicken and massage the spice mix into the meat.
+    \n\n4) Add the chicken to the pan and fry for 5 minutes until the chicken has changed colour and the spices are fragrant.
+    \n\n5) Stir in half of the crispy fried onions and season really well.
+    \n\n6) Scatter the rice over the chicken in an even layer, then pour over the boiling water and add ½ teaspoon salt. The rice should be just submerged under the water. Agitate the rice with a spoon but don’t stir.
+    \n\n7) Bring to the boil and cook for 6 minutes. Cover with foil and a tight-fitting lid to seal in the steam, then turn off the heat and leave to stand, undisturbed, for 10 minutes.
+    \n\n8) Remove the lid and foil and sprinkle with the remaining fried onions, coriander leaves and flaked almonds. Serve immediately with yogurt on the side if you like.
+</string>
+    <string name="recipe_tacos">Ingredients:
+\n\nFor the celeriac slaw
+
+    \n\n1 tbsp lime juice
+    \n0.5 tsp celery salt
+    \n1 handful coriander, finely chopped
+    \n100 g celeriac, peeled
+
+\n\nFor the prawns
+
+    \n\n1 banana shallot, finely sliced
+    \n1 celery stick, finely sliced
+    \n2 garlic cloves, finely sliced
+    \n0.5 tsp celery salt
+    \n50 ml vodka or white wine
+    \n0.5 tsp Tabasco sauce
+    \n1 tsp horseradish sauce
+    \n1 tsp Worcestershire sauce
+    \n150 ml tomato juice
+    \n500 g king prawns, peeled and deveined
+    \n1 tbsp parsley, finely chopped
+    \n1 pinch freshly ground black pepper
+    \n1 tbsp sunflower oil
+
+\n\nTo serve:
+
+    \n\n2 fresh limes, cut into wedges
+    \n1 squeeze of mayonnaise
+    \n4 flour tortillas
+
+
+\n\nDetails:
+
+    \n\nCuisine: Mexican
+    \nRecipe Type: Tacos
+    \nDifficulty: Easy
+    \nPreparation Time: 30 mins
+    \nCooking Time: 15 mins
+    \nServes: 4
+
+\n\nStep-By-Step:
+
+    \n\n1) Set a large frying pan over a high heat. Once the pan is hot, add the oil, shallot and celery. Fry for a minute until everything starts to sizzle, then reduce the heat to medium. Fry, stirring occasionally, for about 10 minutes, until the shallot is just softened. If the shallot starts to catch, reduce the heat further.
+    \n\n2) When the shallot is soft, increase the heat to high and add the garlic and celery salt. Fry for a minute then throw in the vodka or white wine and allow the alcohol to bubble and evaporate almost entirely.
+    \n\n3) Add the Tabasco, horseradish, Worcestershire sauce and tomato juice and bring to the boil, then throw in the prawns. Fry just until the prawns are cooked through, then remove from the heat and stir in the parsley and a good grinding of black pepper.
+    \n\n4) For the celeriac slaw, coarsely grate the celeriac into a mixing bowl. Add the lime juice, celery salt and coriander.
+    \n\n5) To serve, fill the tortillas with the slaw before layering with the prawns. Top with a squeeze of mayonnaise and serve with lime wedges and extra slaw.
+
+</string>
+    <string name="recipe_pho">Ingredients:
+
+    \n\n1 kg short ribs
+    \n50 g shiitake mushrooms, sliced
+    \n500 ml beef stock
+    \n500 ml water
+    \n0.5 onion
+    \n1 garlic clove
+    \n1 star anise
+    \n1 cinnamon stick
+    \n1 tsp fennel seeds
+    \n4 black pepper seeds
+    \n20 g ginger, thickly sliced
+    \n1 lemongrass stick, bashed
+    \n2 red chillies
+    \n0.5 bunch coriander
+    \n3 mint stalks
+    \n2 spring onions
+    \n20 ml fish sauce
+    \n250 g flat pho noodles, cooked per packet instructions
+    \n2 limes
+
+\n\nDetails:
+
+    \n\nCuisine: Vietnamese
+    \nRecipe Type: Slow cooker
+    \nDifficulty: Easy
+    \nPreparation Time: 15 mins
+    \nCooking Time: 300 mins
+    \nServes: 6
+
+\n\nStep-By-Step:
+
+    \n\n1) Heat a dry frying pan and toast the spices quickly till they become aromatic. Remove and keep on the side.
+    \n\n2) Slice on onion in half and char it flat side down in a hot, dry pan until black. Remove, and add the ginger until coloured on both sides.
+    \n\n3) Debone the short ribs, browning the bone in a dry pan on every side.
+    \n\n4) Add the bone to the crockpot with stock, water, onion, the garlic clove, spices, ginger, coriander stalks and shiitake mushrooms.
+    \n\n5) Slice the short rib lengthways in thin slices and add to the pot.
+    \n\n6) For best results, set your Crock-Pot or slow cooker to low (for 4–6 hours cooking). You could also use high (for 2–3 hours cooking).
+    \n\n7) Cook until the beef gets soft to the bite but doesn’t break up.
+    \n\n8) Add fish sauce and salt to taste.
+    \n\n9) Remove the bones, spices, ginger, garlic and lemongrass, then portion into bowls with the prepared noodles.
+    \n\n10) Slice the spring onion and chilli, add to the pho and top with lightly torn coriander leaves and mint. Serve with lime wedges.
+
+</string>
+    <string name="recipe_poutine">Ingredients:
+\n\nFor the poutine:
+
+    \n1 vegetable oil spray
+    \n500 g large white potatoes (such as Maris Piper)
+    \n200 g cheese curds, or buffalo mozzarella
+    \n400 ml gravy, beef or onion, either shop-bought or homemade
+
+\n\nDetails:
+
+    \nCuisine: Canadian
+    \nRecipe Type: Potato
+    \nDifficulty: Easy
+    \nPreparation Time: 10 mins
+    \nCooking Time: 25 mins
+    \nServes: 2
+
+\n\nStep-By-Step:
+
+\n\nFor the poutine:
+
+    \n\n1) Bring a large pot of salted water to the boil and pre-heat the oven to 220°C/430°F/gas mark 7.
+    \n\n2) Keeping the skin on, slice the potatoes lengthways into 1cm (0.5in) slices then cut into sticks (chips).
+    \n\n3) Cook the chips in the boiling water for 5 minutes then drain.
+    \n\n4) Line a large baking tray with parchment paper and spray with a little light oil spray.
+    \n\n5) Place the chips onto the baking tray in a single layer, season and spray all over with the light oil. Cook in the pre-heated oven for 25 minutes giving them a shake halfway through or until golden and crispy.
+    \n\n6) Make sure the gravy is at boiling temperature or piping hot.
+    \n\n7) Transfer the chips to a serving dish, break the cheese curds (or mozzarella) into small chunks, place them on the chips and pour over the hot gravy.
+</string>
+</resources>
